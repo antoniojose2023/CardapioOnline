@@ -1,3 +1,6 @@
 # Cardapio Online
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+## Tecnologias utilizadas
+-kotlin
+-Firebase
+-Glide
