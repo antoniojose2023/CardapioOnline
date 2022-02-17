@@ -1,6 +1,6 @@
 # Cardapio Online
 
 ## Tecnologias utilizadas
-*kotlin
-*Firebase
-*Glide
+* kotlin
+* Firebase
+* Glide
