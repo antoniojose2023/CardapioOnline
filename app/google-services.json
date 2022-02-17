@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1024305586044",
+    "project_id": "cardapioonline-73c59",
+    "storage_bucket": "cardapioonline-73c59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024305586044:android:a71c1b17d5484826fecef9",
+        "android_client_info": {
+          "package_name": "br.com.antoniojoseuchoa.cadastrocardapioonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024305586044-869l2oj9igtje4jl9h6bd7iddfiq2f1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-RC1Emb_LIh5Jii8TeuFXrRx3wzQEEbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024305586044-869l2oj9igtje4jl9h6bd7iddfiq2f1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024305586044:android:68c43bb141d47d41fecef9",
+        "android_client_info": {
+          "package_name": "br.com.antoniojoseuchoa.cardapioonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024305586044-869l2oj9igtje4jl9h6bd7iddfiq2f1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-RC1Emb_LIh5Jii8TeuFXrRx3wzQEEbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024305586044-869l2oj9igtje4jl9h6bd7iddfiq2f1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
