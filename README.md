@@ -1,7 +1,7 @@
 # Cardapio Online
 
 ## Tecnologias utilizadas
-* kotlin [https://firebase.google.com/?hl=pt-br]
+*  [kotlin](https://www.google.com)
 * Firebase
 * Glide
 
