@@ -1,9 +1,9 @@
 # Cardapio Online
 
 ## Tecnologias utilizadas
-*  [kotlin](https://www.google.com)
-* Firebase
-* Glide
+* [kotlin](https://kotlinlang.org/)
+* [Firebase](https://firebase.google.com/?hl=pt-br)
+* [Glide](https://github.com/bumptech/glide)
 
 
 ## Sobre o App
